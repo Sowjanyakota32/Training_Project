@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b32c63bd-68c7-4082-923e-b66d5904da9b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Training_Project.iws" />
@@ -187,7 +185,13 @@
       <option name="project" value="LOCAL" />
       <updated>1484576707533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="branch created&#10;">
+      <created>1484576853274</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1484576853274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -226,7 +230,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Folders created&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Folders created&#10;" />
+    <MESSAGE value="branch created&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="branch created&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
